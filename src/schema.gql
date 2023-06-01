@@ -1,0 +1,11 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+  
+type Query {
+  getAllPlutofundTest: String!
+}
+
+type Mutation {
+  plutofundmutedTest(email: String!): String!
+}

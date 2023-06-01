@@ -1,0 +1,64 @@
+{
+  "ERROR_MESSAGES": {
+    "ALLOWED_USER_NOT_FOUND": "The user with this email address has not generated the passkey, Please ask admin to generate passkey for this email address.",
+    "REQUEST_NOT_PROCESSED": "Request could not be processed.",
+    "NOT_AGREED": "You are not agreed with terms and conditions",
+    "USER_ALREADY_EXISTS": "User with this email already exists",
+    "USER_ALREADY_EXISTS_WAITLIST": "This email ID is already in our waitlist.",
+    "USER_EMAIL_ALREADY_EXISTS": "This email ID is already in our presale waitlist.",
+    "USER_WALLET_ALREADY_EXISTS": "This wallet address is already in our presale waitlist.",
+    "USER_COULD_NOT_BE_ADDED": "User could not be added",
+    "ALREADY_VERIFIED": "You have already been verified"
+    
+  },
+  "CONSTANT_VARIABLE": {
+    "ADMIN_CONTACT_SUBJECT": "Contacted on enoch",
+    "CRON_VALUE": "45 * * * * *"
+  },
+
+  "SUCCESS_MESSAGE": {
+    "YOKIA_SIGNUP": "Created Signup successfully"
+    },
+
+  "TEMPLATES": {
+    "WAITLIST": "waitlist",
+    "ENOCH_WHITELIST": "enoch-whitelist",
+    "ENOCH_WAITLIST": "e-waitlist",
+    "ENOCH_NEWSLETTER": "enoch-newsletter",
+    "CONTACT_US": "contact-us",
+    "JTENOCH": "enoch-newsletter",
+    "SUBSCRIBER": "news-letter-subscription",
+    "YOKAIOTP": "yokaisignotp"
+  },
+
+  "NEWTEMPLATES": {
+    "MACONTACTUSAMBASSDOR": "m-a-contactus-autoresponder",
+    "MACONTACTUSCREATOR": "m-a-contactus-creator",
+    "MACONTACTUSINVESTOR": "m-a-contactus-investor",
+    "MACONTACTUSPARTNER": "m-a-contactus-partner",
+    "MWAITLIST": "m-waitlist",
+    "WACONTACTUSAMBASSDOR": "w-a-contactus-ambassdor",
+    "WACONTACTUSCREATOR": "w-a-contactus-creator",
+    "WACONTACTUSINVESTOR": "w-a-contactus-investor",
+    "WACONTACTUSPARTNER": "w-a-contactus-partner",
+    "EMWAITLIST": "e-m-waitlist",
+    "EPWAITLIST": "e-p-waitlist",
+    "ETOKENPRESALE": "e-token-presale",
+    "EWAITLIST": "e-waitlist"
+  },
+
+  "URLS": {
+    "VERIFYIMAGE": "https://enochforrdical.s3.us-east-2.amazonaws.com/Email/verify-mail.png",
+    "LOGOIMAGE": "https://enochforrdical.s3.us-east-2.amazonaws.com/Email/logo-big.png",
+    "DEFAULT_AVATAR_URL": "https://enochforrdical.s3.us-east-2.amazonaws.com/EnochAvatar/apocalypse/userApocalypseavatar/Card1.png",
+    "ALLOWED_USER_NOT_FOUND": "We have no user with the provided email address",
+    "MAILERLITE": "https://connect.mailerlite.com/api/batch"
+  },
+
+  "APIKEYS": {
+    "X_MAILERLITE_APIKEY": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiZDcxYTU4NWMyYTBjOGVhYjU2ZGVjOGMzNzcyNjQ3ODcwYmRkOTE5YzBhZGVhODc4OGRmYzU0ZGM0YTlkYzk1Yjc4Yjk2NzA1YTM4OTk3N2QiLCJpYXQiOjE2NjUzOTQ3ODYuMDEwMTQ3LCJuYmYiOjE2NjUzOTQ3ODYuMDEwMTQ5LCJleHAiOjQ4MjEwNjgzODYuMDAyMjE0LCJzdWIiOiIxNzg3MTkiLCJzY29wZXMiOltdfQ.JQWShUdeAZXvxdadCDDJ8ppE061MqMr6actqCc7aC30CoOQrhkY4VgVoO8esPy_r39kTYQDwcXGWd51NlSDnpQYE06q9WhtCyUcnVOFItqhm6nk5DnSBX_anAigtIexO_ifZuNhNVgdUqLflRQBSEyShZwnvqfdAqwTJ2S7VgKYNTwpnnax6guJBe08IyRTZwY3YlJ-nOXs5-yb9wZq-bAn-uEskXXAhJiwLQuGq6jw5437jvB7dEUMdOkCbOcZF2tjgYyaP5oGka2m_pLejGiZdIvE2SjTUAY-XP_oVzXzrtWmJh2hPYdUXvpIsIgglBetde-nOpwY-okViTIIoHjlpVtgAGagksAlQIjd2IpOybCi39arsERQeV1JCY-s5b4RQxDjW_mFRDVoBt0wnG9EgIdBplY8JisREjptXicX6U0CKUwlT0h2s86AbuXkE7Jb_WxSneZm7rfOfUGrZ30mhqNa1Jt9ZmFbEHpD3Fr4dpOj6jQD65oeYe6epZEWRsNA89PbskrVdtFCnY0k8LU8Azr2pi0l_kCS2nw1Hpc5C1Fw48efclG18e9S3c9OphzTXl-COphSYbzh_Y6S5vuajhoOaay_mlt8kc3R_vNtrf7riNVzZWJPTsSoS-sm7N4Gogai4zHQtXWNBkT9lLSvbpuUnF5R-RvGL6dQz0sc"
+  },
+  "SUBJECTS": {
+    "CONTACT": "Thanks for contacting to ENOCH"
+  }
+}
